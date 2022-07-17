@@ -1,0 +1,2 @@
+python-3.9.1-amd64.exe
+torch-1.10.0+cpu-cp39-cp39-win_amd64.whl
